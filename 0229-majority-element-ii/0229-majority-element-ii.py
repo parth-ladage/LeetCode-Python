@@ -7,9 +7,6 @@ class Solution:
                 seen[num]+=1
             else:
                 seen[num]=1
-
-            if seen[num] > len(nums)/3 :
-                res.append(num) 
         
         for num in seen:
             if seen[num] > len(nums)/3 :
