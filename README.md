@@ -24,4 +24,20 @@ LeetCode Solutions in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/parth-ladage/LeetCode-Python/tree/main/0125-valid-palindrome/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/parth-ladage/LeetCode-Python/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/parth-ladage/LeetCode-Python/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/parth-ladage/LeetCode-Python/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/parth-ladage/LeetCode-Python/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
